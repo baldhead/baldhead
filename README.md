@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @baldhead
 - 👀 I’m interested in data science, GIS, Big Data, machine learning, ... 
-- ❤️️ Linux
+- ❤️️ Linux, bash
 - ✍️ Sublime text, vim
-- ⭐ Python, PHP, Java (R)
+- ⭐ Python, PHP, Java, R
 
 <!-- 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
